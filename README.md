@@ -1,2 +1,4 @@
 # Sales-Insights
 Rebel hardware is a company in India which supplies computer hardware and peripheral devices across India only. They have many stores across India such as surge stores, Nomad stores, Excel stores, etc. These are all the clients and this is a hardware company which will supply computers other peripheral networking equipment to them. Company have a head office in Delhi India and it has regional offices in different states of India and they have a sales director of this company and he’s managing the business from the head office and company has regional managers per state or per region or district.
+
+### <a href="https://app.powerbi.com/view?r=eyJrIjoiZTU3MmZlYzgtNjc3OS00NTBkLWI3MWItMmYyYjE3MmRkMWQ1IiwidCI6ImEyNjU1NzZhLWZiODgtNDlkOS04ZmU2LWQyZjgxNTg2MDE0ZSIsImMiOjF9" target="_blank">Dashboard Here!</a>
